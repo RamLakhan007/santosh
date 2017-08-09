@@ -1,6 +1,7 @@
 package com.app;
 
 public class PrimeCheck {
+	public PrimeCheck(){}
 public static void main(String[] args) {
 	int num=13;
 	int count=0;
