@@ -9,6 +9,7 @@ public static void main(String[] args) {
 		if(num%i==0){
 			count++;
 			break; 
+			System.out.println("This is a mango");
 		}
 	}
 	if(count==0){
