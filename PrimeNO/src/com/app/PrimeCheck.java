@@ -15,6 +15,8 @@ public static void main(String[] args) {
 		System.out.println("This is prime number");
 	}else{
 		System.out.println("This is not prime number");
+		System.out.println("ram aam khata hai");
+	
 	}
 }
 }
